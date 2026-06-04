@@ -25,3 +25,6 @@ address details, and feedback from participants.
 - Linking labels to inputs correctly
 - Working with different input types and when to use each# survey-form
 A student survey form built using pure HTML — part of my web development journey.
+
+##Live Page
+-Click here to view-https://snehafincy09.github.io/survey-form/

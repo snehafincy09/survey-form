@@ -27,4 +27,4 @@ address details, and feedback from participants.
 A student survey form built using pure HTML — part of my web development journey.
 
 ## Live Page
--Click here to view-https://snehafincy09.github.io/survey-form/
+Click here to view-https://snehafincy09.github.io/survey-form/
